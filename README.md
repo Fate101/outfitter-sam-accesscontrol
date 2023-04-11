@@ -16,8 +16,8 @@ Only use this version if you're using the SAM Admin Mod. I have purposely not in
  3. Extract zipfolder as outfitter-sam-access-control **[This has to be in lowercase to work]**
  4. Upload/Copy to your GMod Server Addons Folder
  5. Start up the Server
-
-### via Workshop
+ 
+### via [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2960873700)
 
  1. Install Outfitter via the Workshop by adding it to the Server Collection you use to add addons to the server.
  2. Add Outfitter - SAM Access Control to your Server Collection/Download Collection
